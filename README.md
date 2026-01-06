@@ -1,1 +1,1 @@
-# theoriginalspec.github.io
+# [The Original Spec](https://theoriginalspec.pages.dev)
